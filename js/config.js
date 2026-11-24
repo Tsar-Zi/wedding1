@@ -26,7 +26,7 @@ window.WEDDING = {
 
   locationText: "ждём вас по адресу:",
 
-  telegramUrl: "https://t.me/+PYFcp808fZhlMTky",
+  telegramUrl: "https://t.me/tvoya_prigloska",
   telegramText: "Присоединяйтесь к нашему телеграм-каналу. Делитесь фотографиями и видео с торжества.",
 
   // Подпись на последнем фото
